@@ -1,0 +1,11 @@
+Package: virtual-microscope
+Version: 6.2.2
+Installed-Size: 7094
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Section: science
+Architecture: all
+Priority: optional
+Depends: default-jre
+Homepage: http://virtual.itg.uiuc.edu
+Description: The Virtual Microscope
+ is a NASA-funded project that provides simulated scientific instrumentation for students and researchers worldwide as part of NASA's Virtual Laboratory initiative. This site serves as home base for the Imaging Technology Group's contributions to that project—namely virtual microscopes and the multi-dimensional, high-resolution image datasets they view. Currently we provide 90 samples totaling over 62 gigapixels of image data. The Virtual Microscope, which is available for free download supports functionality from electron, light, and scanning probe microscopes, datasets for these instruments, training materials to learn more about microscopy, and other related tools.

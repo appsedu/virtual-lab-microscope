@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /usr/share/VirtualLab/
+java -Dapple.laf.useScreenMenuBar=true  \
+     -Djava.library.path=/usr/share/VirtualLab/resources/ \
+     -Xmx1024m \
+     -jar /usr/share/VirtualLab/resources/Virtuallab.6.2.2.jar
